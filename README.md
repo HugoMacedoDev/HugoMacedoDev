@@ -61,6 +61,6 @@ Sou desenvolvedor de software com experiência profissional em **back-end, integ
 ### 📊 Estatísticas
 
 <p>
-  <img align="left" alt="Estatísticas do GitHub de Hugo Macedo" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=HugoMacedoDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Tecnologias mais utilizadas por Hugo Macedo" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoMacedoDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img align="left" alt="Estatísticas do GitHub de Hugo Macedo" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HugoMacedoDev&theme=tokyonight" />
+  <img align="left" alt="Tecnologias mais utilizadas por Hugo Macedo" width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HugoMacedoDev&theme=tokyonight" />
 </p>
