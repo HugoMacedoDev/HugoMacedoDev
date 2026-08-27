@@ -1,92 +1,66 @@
-<div align="center">
+# 👨🏻‍💻 Hugo Macedo
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:00D4FF&height=210&section=header&text=Hugo%20Macedo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20%7C%20Transformando%20ideias%20em%20c%C3%B3digo&descAlignY=58&descSize=18" width="100%" alt="Banner de Hugo Macedo" />
+**`Desenvolvedor de Software | Back-end | Automação RPA | Dados | Infraestrutura & Cybersecurity`**
 
+Sou desenvolvedor de software com experiência profissional em **back-end, integrações e automação de processos corporativos**. Trabalho principalmente com Python e PHP, construindo automações RPA, integrações via APIs REST e Web Services SOAP, processamento de dados e soluções conteinerizadas. Também mantenho laboratórios de estudo em **mensageria, arquitetura orientada a eventos, observabilidade e segurança de infraestrutura**.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hugofilipemacedo">
+    <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084B8A" />
+  </a>
+  <a href="mailto:hugomacedodesenvolve@gmail.com">
+    <img alt="E-mail" title="Entre em contato por e-mail" src="https://custom-icon-badges.demolab.com/badge/-E--MAIL-E05D44?style=for-the-badge&logo=mail&logoColor=white&labelColor=CE4630" />
+  </a>
   <a href="https://github.com/HugoMacedoDev?tab=followers">
-    <img src="https://img.shields.io/github/followers/HugoMacedoDev?label=Seguidores&style=for-the-badge&logo=github&color=6C63FF" alt="Seguidores no GitHub" />
+    <img alt="Seguidores" title="Siga-me no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/HugoMacedoDev?color=236AD3&labelColor=1155BA&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=HugoMacedoDev&style=for-the-badge&color=3B82F6&label=VISITAS" alt="Visitas ao perfil" />
+  <img alt="Visualizações do perfil" title="Visualizações do perfil" src="https://komarev.com/ghpvc/?username=HugoMacedoDev&color=55960c&style=for-the-badge&label=VISITAS" />
+</p>
 
-</div>
+---
 
-## 👨‍💻 Sobre mim
+### 🚀 Atuação profissional
 
-Sou **Hugo Macedo**, desenvolvedor apaixonado por tecnologia, automação e por transformar problemas reais em soluções simples. Atualmente, construo projetos com foco em **Python**, **Java**, **JavaScript** e desenvolvimento web.
+- ⚙️ Desenvolvimento back-end, automações RPA e integração de sistemas corporativos
+- 📉 Redução de um processo contábil de **pelo menos 15 dias para aproximadamente 1 dia**, com ganho superior a 90%
+- 🔄 Integrações fiscais e financeiras com APIs REST, SOAP, Excel e CSV
+- 📊 Processamento, validação e transformação de dados com Python e Pandas
+- 🐳 Padronização de ambientes com Docker Compose, Git e Linux
+- 📡 Monitoramento de redes, servidores e disponibilidade com Zabbix
 
-- 🔭 Desenvolvendo automações e sistemas para documentos fiscais
-- 🌱 Aprimorando meus conhecimentos em desenvolvimento back-end e web
-- 💡 Gosto de aprender construindo projetos que resolvem problemas reais
-- 🤝 Aberto a colaborar, trocar conhecimento e encarar novos desafios
-- ⚡ Cada projeto é uma oportunidade de evoluir
+### 🤖 Linguagens e Tecnologias
 
-## 🛠️ Tecnologias e ferramentas
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="Docker" title="Docker e Docker Compose" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="left" alt="Apache Kafka" title="Apache Kafka" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+<img align="left" alt="RabbitMQ" title="RabbitMQ" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+<img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img align="left" alt="Selenium" title="Selenium" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
-<div align="center">
+<br />
+<br />
 
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode&theme=dark" alt="Python, Java, JavaScript, HTML, CSS, Git, GitHub e VS Code" />
+### 🧪 Projetos e laboratórios
 
-</div>
+- 📨 **Arquitetura orientada a eventos:** Python, FastAPI, Apache Kafka, PostgreSQL e Docker Compose
+- 🐇 **Processamento assíncrono:** RabbitMQ, workers/Celery, retries e dead-letter queues
+- 🛡️ **Cybersecurity Home Lab:** Wazuh, Suricata, pfSense, OpenVAS/Greenbone e Kali Linux
+- 🔍 **Automações observáveis:** logging estruturado, health checks, métricas, idempotência e monitoramento
 
-## 🚀 Projetos em destaque
+### 🎓 Formação
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧾 Projeto NF-e</h3>
-      <p>Projeto em Python voltado a soluções e automações relacionadas a documentos fiscais eletrônicos.</p>
-      <a href="https://github.com/HugoMacedoDev/Projeto--NFespc"><strong>Ver projeto →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔎 Buscar NF-e/NFC-e</h3>
-      <p>Automação em Python para auxiliar na busca e no processamento de documentos fiscais.</p>
-      <a href="https://github.com/HugoMacedoDev/Buscarnfenfce"><strong>Ver projeto →</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 Sistema de Login</h3>
-      <p>Projeto web desenvolvido com JavaScript, explorando autenticação e interfaces.</p>
-      <a href="https://github.com/HugoMacedoDev/sistema_login"><strong>Ver projeto →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>☕ Observer</h3>
-      <p>Projeto em Java para praticar organização de código e padrões de desenvolvimento.</p>
-      <a href="https://github.com/HugoMacedoDev/observer-master"><strong>Ver projeto →</strong></a>
-    </td>
-  </tr>
-</table>
+**Bacharelado em Ciência da Computação** — Universidade de Fortaleza (UNIFOR)  
+2024–2028 · Cursando
 
-## 📊 Minha atividade no GitHub
+### 📊 Estatísticas
 
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HugoMacedoDev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub de Hugo Macedo" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoMacedoDev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Hugo Macedo" />
-
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=HugoMacedoDev&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de Hugo Macedo" />
-
-</div>
-
-## 🐍 Contribuições
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/HugoMacedoDev/HugoMacedoDev/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições" />
-
-</div>
-
-## 📫 Vamos conversar?
-
-<div align="center">
-
-  <a href="https://github.com/HugoMacedoDev">
-    <img src="https://img.shields.io/badge/GitHub-HugoMacedoDev-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-
-  <p><em>“Aprendendo, construindo e evoluindo — um commit de cada vez.”</em></p>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:00D4FF&height=110&section=footer" width="100%" alt="Rodapé" />
-
-</div>
+<p>
+  <img align="left" alt="Estatísticas do GitHub de Hugo Macedo" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=HugoMacedoDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="Tecnologias mais utilizadas por Hugo Macedo" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoMacedoDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</p>
